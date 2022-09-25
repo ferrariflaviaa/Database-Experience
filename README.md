@@ -1,1 +1,3 @@
-# Database-Experience
+# Bootcamp Database-Experience
+# Crie um diagrama de entidade relacional mostrando os principais componentes de um sistema de comércio eletrônico. Inclui: fornecedores, estoque, produtos, clientes, sistemas de pagamento e rastreamento...
+# Conceito de sistema OS em oficina... Nesta fase, é desenvolvido um conceito de oficina para manutenção e revisão geral de veículos (como mostra a imagem abaixo) e são gerados arquivos de comandos SQL para implementação em SGDB
